@@ -1,0 +1,26 @@
+[
+    {
+        "firma_id": 1,
+        "firmaAdi": "Hüseyin A.Ş",
+        "firmaTanimi": "Hayvancılık",
+        "firmaSahipAdi": "Hüseyin Zeyrek",
+        "firmaYetkiliAdi": "Hüseyin Zeyrek",
+        "telefonNo": "568 949 5615",
+        "email": "huseyinsaidzeyrek@gmail.com",
+        "firmaAdresi": "Antalya Burdur Yolu, 15030 Yakaköy/Burdur Merkez/Burdur",
+        "firmaTuru": "Bagli Durak",
+        "degerlendirmeTuru": "3"
+    },
+    {
+        "firma_id": 2,
+        "firmaAdi": "Zeyrek Sütçülük",
+        "firmaTanimi": "Hayvancılık",
+        "firmaSahipAdi": "Hüseyin Zeyrek",
+        "firmaYetkiliAdi": "Hüseyin Zeyrek",
+        "telefonNo": "485 4662 8446",
+        "email": "huseyinsaidzeyrek@gmail.com",
+        "firmaAdresi": "Antalya Burdur Yolu, 15030 Yakaköy/Burdur Merkez/Burdur",
+        "firmaTuru": "Serbest Yari Acik",
+        "degerlendirmeTuru": "1"
+    }
+]
